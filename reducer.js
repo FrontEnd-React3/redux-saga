@@ -1,0 +1,1 @@
+const myFirstReducer = (state = {}, action) => {}
